@@ -570,6 +570,10 @@ section {
     color: #4a4a4a;
 }
 
+.qualification-text {
+    font-family: inherit;
+}
+
 /* =====================
    CTA
    ===================== */
