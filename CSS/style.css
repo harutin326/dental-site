@@ -448,8 +448,10 @@ section {
 }
 
 .treatment-title {
-    margin-right: 50px;
+    width: 120px;        
+    flex-shrink: 0;      
     white-space: nowrap;
+    margin: 0;           
 }
 
 .treatment-desc {
